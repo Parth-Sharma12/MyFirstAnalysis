@@ -1,2 +1,2 @@
-# MyFirstAnalysis
+# Titanic Dataset
 Titanic Dataset 
